@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍🔬I'm a GIS graduate with a nano degree in data science. <br>Skilled in spatial data science, I'm passionate about collaborating on machine learning and AI projects. <br>Let's combine the power of spatial data and advanced algorithms to solve real-world problems. <br>✨🚀Connect with me for exciting opportunities.
+🌍🔬 I'm a GIS graduate with a nano degree in data science, passionate about combining spatial data and advanced algorithms to solve real-world problems. Let's collaborate on exciting ML and AI projects that leverage the power of spatial data. Connect with me for opportunities. 🚀
 
 
 ## 🌐 Socials:
