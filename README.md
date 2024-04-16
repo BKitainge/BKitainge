@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a GIS graduate with a nano degree in data science, passionate about combining spatial data and advanced algorithms to solve real-world problems. Let's collaborate on exciting Machine Learning and Artificial Intelligence projects that leverage the power of spatial data. Connect with me for opportunities. 
+Fueled by a passion for integrating data with state-of-the-art algorithms, I am dedicated to using the insights from diverse data sets to address complex issues through Machine Learning and Artificial Intelligence. My extensive experience in data analysis, modeling, and algorithm development enables me to devise innovative solutions across various challenges. Keen to engage in projects that push the boundaries of AI and ML for tangible outcomes, I am on the lookout for collaboration opportunities that leverage the full spectrum of data to solve contemporary problems. If you're interested in partnering to explore the expansive potential of data-driven strategies for real-world impact, I'm eager to connect and discuss how we can make a significant difference together
 
 
 ## 🌐 Socials:
